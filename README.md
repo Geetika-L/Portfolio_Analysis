@@ -12,7 +12,7 @@ The script will produces 3 charts. It displays the cumulative returns of the por
 Then it produces a bar/line plot that compares the returns of each stock to those of S&P 500 for the period.
 The last chart is a heatmap depicting the correlation between all the stocks in the portfolio.
 
-**Trend in Expenses chart:**
+**Charts:**
 ![Image of Cumulative Returns chart](https://github.com/Geetika-L/Portfolio_Analysis/blob/master/Port_cumulative_returns.png)
 ![Image of Ticker vs SP500 Returns chart](https://github.com/Geetika-L/Portfolio_Analysis/blob/master/Ticker_vs_SP_500_Returns.png)
 ![Image of Stock Correlation chart](https://github.com/Geetika-L/Portfolio_Analysis/blob/master/corr_stock.png)
